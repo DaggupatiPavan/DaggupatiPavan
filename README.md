@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> - 🔭 I’m currently working on R&D in TCS<br><br>🌱 I’m currently learning Azure Admin<br><br>👯 I’m looking to collaborate on Kubernetes and Terraform<br><br>🤝 I’m looking for help with CDEvents<br><br>💬 Ask me about DevOps and Cloud<br><br>📫 How to reach me pavandaggupati2@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/16ByRIVyFsHIN0_mfS6zvDdSDwh4CrG01/view?usp=drivesdk</p>
+<p align="left"> 🔭 I’m currently working on R&D in TCS<br><br>🌱 I’m currently learning Azure Admin<br><br>👯 I’m looking to collaborate on Kubernetes and Terraform<br><br>🤝 I’m looking for help with CDEvents<br><br>💬 Ask me about DevOps and Cloud<br><br>📫 How to reach me pavandaggupati2@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/16ByRIVyFsHIN0_mfS6zvDdSDwh4CrG01/view?usp=drivesdk</p>
 
 ###
 

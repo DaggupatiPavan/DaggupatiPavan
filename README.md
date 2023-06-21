@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Kubernetes and Terraform**
 
-- 🤝 I’m looking for help with **AWS**
+- 🤝 I’m looking for help with **CDEvents**
 
 - 💬 Ask me about **DevOps and Cloud**
 

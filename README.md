@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> 🔭 I’m currently working on R&D in TCS<br><br>🌱 I’m currently learning Azure Admin<br><br>👯 I’m looking to collaborate on Kubernetes and Terraform<br><br>🤝 I’m looking for help with CDEvents<br><br>💬 Ask me about DevOps and Cloud<br><br>📫 How to reach me pavandaggupati2@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/16ByRIVyFsHIN0_mfS6zvDdSDwh4CrG01/view?usp=drivesdk</p>
+<p align="left"> 🔭  I am currently engaged in Research and Development at TCS, where I am delving into the exciting world of Azure Administration.<br><br>🌱 As part of my continuous learning journey, I am currently diving into Azure Admin, gaining expertise in managing and maintaining cloud infrastructure on the Microsoft Azure platform.<br><br>👯 I'm actively seeking collaboration opportunities with like-minded individuals in the fields of Kubernetes and Terraform.<br><br>📫 If you wish to connect or discuss anything related to DevOps, Cloud, Kubernetes, Terraform, or any other tech-related topics, you can reach me via email at pavandaggupati2@gmail.com.<br><br>📄 I have had valuable experiences in my journey, from working in R&D at TCS to actively learning and expanding my skills in Azure Admin. I also enjoy engaging with the DevOps and Cloud communities and finding opportunities to collaborate on exciting projects involving Kubernetes and Terraform. </p>
 
 ###
 
